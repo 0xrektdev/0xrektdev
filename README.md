@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**0xrektdev/0xrektdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0xrektdev/0xrektdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
   __    __    _______  ___      ___        ______        __   __  ___     ______     _______   ___       ________   
  /" |  | "\  /"     "||"  |    |"  |      /    " \      |"  |/  \|  "|   /    " \   /"      \ |"  |     |"      "\  
